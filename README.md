@@ -8,7 +8,6 @@ A sleek, responsive **Job Listing UI** built with React to demonstrate mastery o
 
 ![UI Screenshot](./assets/screenshot1.png)
 ![UI Screenshot](./assets/screenshot2.png)
-> *Note: Add your project screenshots to the `/assets` folder to display them here.*
 
 ---
 
