@@ -1,0 +1,10 @@
+         <Card logo={jobs[0].logo} companyName={jobs[0].companyName} postedAgo={jobs[0].postedAgo} role={jobs[0].role} tag1={jobs[0].tag1} tag2={jobs[0].tag2} pay={jobs[0].pay} location={jobs[0].location}/>
+		 <Card logo={jobs[1].logo} companyName={jobs[1].companyName} postedAgo={jobs[1].postedAgo} role={jobs[1].role} tag1={jobs[1].tag1} tag2={jobs[1].tag2} pay={jobs[1].pay} location={jobs[1].location}/> 
+		 <Card logo={jobs[2].logo} companyName={jobs[2].companyName} postedAgo={jobs[2].postedAgo} role={jobs[2].role} tag1={jobs[2].tag1} tag2={jobs[2].tag2} pay={jobs[2].pay} location={jobs[2].location}/> 
+		 <Card logo={jobs[3].logo} companyName={jobs[3].companyName} postedAgo={jobs[3].postedAgo} role={jobs[3].role} tag1={jobs[3].tag1} tag2={jobs[3].tag2} pay={jobs[3].pay} location={jobs[3].location}/> 
+		 <Card logo={jobs[4].logo} companyName={jobs[4].companyName} postedAgo={jobs[4].postedAgo} role={jobs[4].role} tag1={jobs[4].tag1} tag2={jobs[4].tag2} pay={jobs[4].pay} location={jobs[4].location}/> 
+		 <Card logo={jobs[5].logo} companyName={jobs[5].companyName} postedAgo={jobs[5].postedAgo} role={jobs[5].role} tag1={jobs[5].tag1} tag2={jobs[5].tag2} pay={jobs[5].pay} location={jobs[5].location}/> 
+		 <Card logo={jobs[6].logo} companyName={jobs[6].companyName} postedAgo={jobs[6].postedAgo} role={jobs[6].role} tag1={jobs[6].tag1} tag2={jobs[6].tag2} pay={jobs[6].pay} location={jobs[6].location}/> 
+		 <Card logo={jobs[7].logo} companyName={jobs[7].companyName} postedAgo={jobs[7].postedAgo} role={jobs[7].role} tag1={jobs[7].tag1} tag2={jobs[7].tag2} pay={jobs[7].pay} location={jobs[7].location}/> 
+		 <Card logo={jobs[8].logo} companyName={jobs[8].companyName} postedAgo={jobs[8].postedAgo} role={jobs[8].role} tag1={jobs[8].tag1} tag2={jobs[8].tag2} pay={jobs[8].pay} location={jobs[8].location}/> 
+		 <Card logo={jobs[9].logo} companyName={jobs[9].companyName} postedAgo={jobs[9].postedAgo} role={jobs[9].role} tag1={jobs[9].tag1} tag2={jobs[9].tag2} pay={jobs[9].pay} location={jobs[9].location}/> 
