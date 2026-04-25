@@ -7,7 +7,7 @@ A sleek, responsive **Job Listing UI** built with React to demonstrate mastery o
 ## 📸 Preview
 
 ![UI Screenshot](./src/assets/1.PNG)
-![UI Screenshot](./src/assets/2.PNG)
+![UI Screenshot](./src/assets/3.PNG)
 
 ---
 
